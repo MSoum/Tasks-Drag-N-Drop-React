@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { arrayMove, sortableKeyboardCoordinates, usese } from "@dnd-kit/sortable";
+import { arrayMove, sortableKeyboardCoordinates } from "@dnd-kit/sortable";
 
 import {
   DndContext,
